@@ -2,8 +2,7 @@
 
 **An end-to-end HR analytics project** analyzing employee attrition, compensation trends, promotion gaps, and work-life balance — using Excel, SQL, Power BI, and Tableau.
 
-🔗 **Live Dashboards:** [Tableau Public](https://public.tableau.com/views/HRAnalyticsDashboard_17883474526010/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link) &nbsp;|&nbsp; [Power BI (Publish to Web)](#)
-*(replace the `#` above with your actual links once published)*
+🔗 **Live Dashboard:** [Tableau Public](https://public.tableau.com/views/HRAnalyticsDashboard_17883474526010/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
 
 ---
 
