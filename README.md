@@ -11,7 +11,7 @@
 
 This project converts raw HR data into KPI-driven insights and proposes strategic HR actions to reduce attrition. The workflow covers the full analytics pipeline: data cleaning in SQL, KPI calculation, dashboarding across three BI tools, and translating findings into business recommendations.
 
-**Dataset:** *(add source here — e.g. "IBM HR Analytics Employee Attrition dataset, Kaggle" or "synthetic dataset created for this project")*
+Dataset: As provided by AIvariant for our internship project.
 
 ---
 
@@ -29,14 +29,14 @@ This project converts raw HR data into KPI-driven insights and proposes strategi
 ## 📊 Dashboards
 
 ### Excel Dashboard
-![Excel Dashboard](screenshots/excel_dashboard.png)
+![Excel Dashboard](screenshots/excel_dashboard.jpg)
 
 ### Power BI Dashboard
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](screenshots/powerbi_dashboard.jpg)
 *(or link the live Publish to Web version above)*
 
 ### Tableau Dashboard
-![Tableau Dashboard](screenshots/tableau_dashboard.png)
+![Tableau Dashboard](screenshots/tableau_dashboard.jpg)
 *(or link the live Tableau Public version above)*
 
 > 📁 Add your screenshots to a `/screenshots` folder in the repo and update the file names/paths above to match.
